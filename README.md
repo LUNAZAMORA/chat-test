@@ -1,2 +1,2 @@
-# tictactoe-online
-TicTacToe online game
+# chat test
+Chat test app
